@@ -1,10 +1,14 @@
 h1 { 
     font-family: 'Courier New', Courier, monospace;
     color: rgb(6, 147, 147);
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 h2 {
     font-family: 'Courier New', Courier, monospace;
     color: rgb(17, 107, 107);
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 h5 {

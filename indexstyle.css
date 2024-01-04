@@ -6,22 +6,28 @@ h1 {
 
 li{ 
     text-align: center;
-    color:steelblue;
+    color:azure;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px 10px;
 }
 
 .div {
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
-    border: 1px solid  cornflowerblue;
-    background-color:rgba(230, 255, 255, 0.3);
+    width: 270px;
+    border: 4px solid midnightblue;
+    background-color:darkslateblue;
     border-radius: 25px;
 
 }
 
 .href {
-    color:darkslategray;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #7566f4;
+    font-style: italic;
+    padding: 2px;
+    border-radius: 4px;
 }
 
 body {
